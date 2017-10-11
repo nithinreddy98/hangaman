@@ -1,0 +1,146 @@
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+@import url('https://fonts.googleapis.com/css?family=Lato:900');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+body{
+	background-size: cover;
+	font-family: Lato;
+	color: white;
+	background: url('images/Homepage/arcade.jpg') no-repeat;
+}
+ul{
+	margin: 0px;
+	padding: 0px;
+	padding-top: 1px;
+	list-style: none;
+}
+ul li{
+	float: left;
+	width: 230px;
+	height: 50px;
+	background-color: black;
+	opacity: .8;
+	line-height: 50px;
+	text-align: center;
+	font-size: 25px;
+    margin-right: 0px;
+    margin-left: 0px;
+	padding-left: 35px;
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+ul li a:hover:not(.active) {
+	background-color: #7044a3;
+	padding: 0px;
+}
+ul li ul li{
+	display: none;
+	padding-right: 0px;
+	padding-left: 0px;
+	width: 230px;
+	text-align: middle;
+}
+ul li:hover ul li{
+	display: block;
+}
+.active {
+	background-color: #512d7a;
+}
+.wel{
+	font-family: Lato;
+	font-size: 85px;
+	text-align: center;
+	padding-top: 30px;
+}
+#title{
+	font-family: roadway;
+	text-align: center;
+	font-size: 90px;
+	padding-top: 0px;
+	margin-top: 0px;
+	background-color: black;
+	opacity: .9;
+}
+.para{
+	background-color: black;
+	opacity: .75;
+	font-color: white;
+	font-family: ubuntu;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 85px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#x{
+	background-color: black;
+	opacity: .75;
+	font-family: ubuntu;
+	font-size: 25px;
+	text-align: center;
+	height: 280px;
+	padding-top: 5px;
+	padding-bottom: 25px;
+	margin-top: 20px;
+}
+.wel2{
+	font-family: Lato;
+	font-size: 80px;
+	margin-top: 100px;
+	padding: 70px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+	background-color: black;
+	opacity: ;
+	background-position: bottom;
+}
+#copyrightin{
+	text-align: center;
+	margin-top: 131px;
+}
+#copyrighth{
+	text-align: center;
+	margin-top: 190px;
+}
+#abt{
+	background-size: cover;
+	background: url('images/Homepage/pc4.jpg') no-repeat;
+}
+#mailb{
+	background-size: cover;
+	background: url('images/Homepage/arcade2.jpg') no-repeat;
+	text-align: center;
+}
+#mbg{
+
+}
+#mhead{
+	margin-top: 70px;
+	font-size: 60px;
+}
+#mpara{
+	margin-top: 120px;
+	font-size: 25px;
+}
+#copyrightm{
+	margin-top: 128px;
+}
+#team{
+	font-family: ;
+	margin-top: 160px;
+	text-align: center;
+	font-size: 30px;
+	color: black;
+	background-color: white;
+	opacity: 0.6;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#copyrighta{
+	margin-top: 90px;
+	text-align: center;
+	color: black;
+}
