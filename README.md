@@ -1,1 +1,1 @@
-# hangman123.github.io
+# hangman.github.io
